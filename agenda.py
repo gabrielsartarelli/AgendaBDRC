@@ -1,7 +1,7 @@
 #Agenda Telefonica
 import funcoes
 
-funcoes.bemvindo()
+funcoes.bemvindo(
 
 #Opcoes do Usuario
 opcao = int(input())
